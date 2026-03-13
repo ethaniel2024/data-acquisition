@@ -1,0 +1,685 @@
+Season,Team,League,Games,Championship_Season,Stat,Value,Stat_Type
+2009,SFN,NL,7,False,Hits,2.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Hits,124.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Hits,46.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Hits,178.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Hits,153.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Hits,170.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Hits,177.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Hits,155.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Hits,158.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Hits,113.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Hits,104.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Hits,120.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Home_Runs,0.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Home_Runs,18.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Home_Runs,4.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Home_Runs,24.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Home_Runs,15.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Home_Runs,22.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Home_Runs,19.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Home_Runs,14.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Home_Runs,12.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Home_Runs,5.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Home_Runs,7.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Home_Runs,18.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,RBIs,0.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,RBIs,67.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,RBIs,21.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,RBIs,103.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,RBIs,72.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,RBIs,89.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,RBIs,95.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,RBIs,80.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,RBIs,67.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,RBIs,41.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,RBIs,38.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,RBIs,56.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Runs,1.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Runs,58.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Runs,17.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Runs,78.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Runs,61.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Runs,72.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Runs,74.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Runs,82.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Runs,62.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Runs,47.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Runs,43.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Runs,68.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Doubles,0.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Doubles,23.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Doubles,5.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Doubles,39.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Doubles,34.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Doubles,28.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Doubles,28.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Doubles,33.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Doubles,34.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Doubles,22.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Doubles,24.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Doubles,23.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Triples,0.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Triples,2.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Triples,0.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Triples,1.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Triples,1.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Triples,2.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Triples,0.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Triples,2.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Triples,0.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Triples,1.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Triples,0.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Triples,0.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Walks,0.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Walks,30.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Walks,18.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Walks,69.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Walks,60.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Walks,47.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Walks,56.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Walks,64.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Walks,61.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Walks,45.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Walks,34.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Walks,56.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Strikeouts,4.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Strikeouts,55.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Strikeouts,30.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Strikeouts,96.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Strikeouts,70.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Strikeouts,69.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Strikeouts,52.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Strikeouts,68.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Strikeouts,66.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Strikeouts,53.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Strikeouts,71.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Strikeouts,87.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Singles,2.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Singles,81.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Singles,37.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Singles,114.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Singles,103.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Singles,118.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Singles,130.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Singles,106.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Singles,112.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Singles,85.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Singles,73.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Singles,79.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Total_Bases,2.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Total_Bases,205.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Total_Bases,63.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Total_Bases,291.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Total_Bases,234.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Total_Bases,268.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Total_Bases,262.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Total_Bases,234.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Total_Bases,228.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Total_Bases,152.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Total_Bases,149.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Total_Bases,197.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Stolen_Bases,0.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Stolen_Bases,0.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Stolen_Bases,3.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Stolen_Bases,1.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Stolen_Bases,2.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Stolen_Bases,0.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Stolen_Bases,2.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Stolen_Bases,6.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Stolen_Bases,6.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Stolen_Bases,3.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Stolen_Bases,0.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Stolen_Bases,0.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Caught_Stealing,0.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,Caught_Stealing,2.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,Caught_Stealing,0.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,Caught_Stealing,1.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,Caught_Stealing,1.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,Caught_Stealing,1.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,Caught_Stealing,0.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,Caught_Stealing,1.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,Caught_Stealing,1.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,Caught_Stealing,2.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,Caught_Stealing,0.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,Caught_Stealing,0.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,At_Bats,17.0,Regular Season Counting Stat
+2010,SFN,NL,108,True,At_Bats,406.0,Regular Season Counting Stat
+2011,SFN,NL,45,False,At_Bats,162.0,Regular Season Counting Stat
+2012,SFN,NL,148,True,At_Bats,530.0,Regular Season Counting Stat
+2013,SFN,NL,148,False,At_Bats,520.0,Regular Season Counting Stat
+2014,SFN,NL,147,True,At_Bats,547.0,Regular Season Counting Stat
+2015,SFN,NL,150,False,At_Bats,557.0,Regular Season Counting Stat
+2016,SFN,NL,146,False,At_Bats,539.0,Regular Season Counting Stat
+2017,SFN,NL,140,False,At_Bats,494.0,Regular Season Counting Stat
+2018,SFN,NL,105,False,At_Bats,398.0,Regular Season Counting Stat
+2019,SFN,NL,114,False,At_Bats,405.0,Regular Season Counting Stat
+2021,SFN,NL,113,False,At_Bats,395.0,Regular Season Counting Stat
+2009,SFN,NL,7,False,Batting_Average,0.11764705882352941,Regular Season Rate Stat
+2010,SFN,NL,108,True,Batting_Average,0.3054187192118227,Regular Season Rate Stat
+2011,SFN,NL,45,False,Batting_Average,0.2839506172839506,Regular Season Rate Stat
+2012,SFN,NL,148,True,Batting_Average,0.33584905660377357,Regular Season Rate Stat
+2013,SFN,NL,148,False,Batting_Average,0.29423076923076924,Regular Season Rate Stat
+2014,SFN,NL,147,True,Batting_Average,0.31078610603290674,Regular Season Rate Stat
+2015,SFN,NL,150,False,Batting_Average,0.3177737881508079,Regular Season Rate Stat
+2016,SFN,NL,146,False,Batting_Average,0.287569573283859,Regular Season Rate Stat
+2017,SFN,NL,140,False,Batting_Average,0.31983805668016196,Regular Season Rate Stat
+2018,SFN,NL,105,False,Batting_Average,0.28391959798994976,Regular Season Rate Stat
+2019,SFN,NL,114,False,Batting_Average,0.25679012345679014,Regular Season Rate Stat
+2021,SFN,NL,113,False,Batting_Average,0.3037974683544304,Regular Season Rate Stat
+2009,SFN,NL,7,False,On_Base_Percentage,0.11764705882352941,Regular Season Rate Stat
+2010,SFN,NL,108,True,On_Base_Percentage,0.35665914221218964,Regular Season Rate Stat
+2011,SFN,NL,45,False,On_Base_Percentage,0.3675675675675676,Regular Season Rate Stat
+2012,SFN,NL,148,True,On_Base_Percentage,0.4081967213114754,Regular Season Rate Stat
+2013,SFN,NL,148,False,On_Base_Percentage,0.37142857142857144,Regular Season Rate Stat
+2014,SFN,NL,147,True,On_Base_Percentage,0.36363636363636365,Regular Season Rate Stat
+2015,SFN,NL,150,False,On_Base_Percentage,0.37881219903691815,Regular Season Rate Stat
+2016,SFN,NL,146,False,On_Base_Percentage,0.36156351791530944,Regular Season Rate Stat
+2017,SFN,NL,140,False,On_Base_Percentage,0.3996478873239437,Regular Season Rate Stat
+2018,SFN,NL,105,False,On_Base_Percentage,0.359375,Regular Season Rate Stat
+2019,SFN,NL,114,False,On_Base_Percentage,0.31981981981981983,Regular Season Rate Stat
+2021,SFN,NL,113,False,On_Base_Percentage,0.3898678414096916,Regular Season Rate Stat
+2009,SFN,NL,7,False,Slugging_Percentage,0.11764705882352941,Regular Season Rate Stat
+2010,SFN,NL,108,True,Slugging_Percentage,0.5049261083743842,Regular Season Rate Stat
+2011,SFN,NL,45,False,Slugging_Percentage,0.3888888888888889,Regular Season Rate Stat
+2012,SFN,NL,148,True,Slugging_Percentage,0.5490566037735849,Regular Season Rate Stat
+2013,SFN,NL,148,False,Slugging_Percentage,0.45,Regular Season Rate Stat
+2014,SFN,NL,147,True,Slugging_Percentage,0.489945155393053,Regular Season Rate Stat
+2015,SFN,NL,150,False,Slugging_Percentage,0.4703770197486535,Regular Season Rate Stat
+2016,SFN,NL,146,False,Slugging_Percentage,0.43413729128014844,Regular Season Rate Stat
+2017,SFN,NL,140,False,Slugging_Percentage,0.46153846153846156,Regular Season Rate Stat
+2018,SFN,NL,105,False,Slugging_Percentage,0.38190954773869346,Regular Season Rate Stat
+2019,SFN,NL,114,False,Slugging_Percentage,0.36790123456790125,Regular Season Rate Stat
+2021,SFN,NL,113,False,Slugging_Percentage,0.49873417721518987,Regular Season Rate Stat
+2009,SFN,NL,7,False,OPS,0.23529411764705882,Regular Season Rate Stat
+2010,SFN,NL,108,True,OPS,0.8615852505865739,Regular Season Rate Stat
+2011,SFN,NL,45,False,OPS,0.7564564564564564,Regular Season Rate Stat
+2012,SFN,NL,148,True,OPS,0.9572533250850603,Regular Season Rate Stat
+2013,SFN,NL,148,False,OPS,0.8214285714285714,Regular Season Rate Stat
+2014,SFN,NL,147,True,OPS,0.8535815190294167,Regular Season Rate Stat
+2015,SFN,NL,150,False,OPS,0.8491892187855716,Regular Season Rate Stat
+2016,SFN,NL,146,False,OPS,0.7957008091954578,Regular Season Rate Stat
+2017,SFN,NL,140,False,OPS,0.8611863488624052,Regular Season Rate Stat
+2018,SFN,NL,105,False,OPS,0.7412845477386935,Regular Season Rate Stat
+2019,SFN,NL,114,False,OPS,0.687721054387721,Regular Season Rate Stat
+2021,SFN,NL,113,False,OPS,0.8886020186248815,Regular Season Rate Stat
+2009,SFN,NL,7,False,Hits_per_Game,0.2857142857142857,Regular Season Per-Game
+2010,SFN,NL,108,True,Hits_per_Game,1.1481481481481481,Regular Season Per-Game
+2011,SFN,NL,45,False,Hits_per_Game,1.0222222222222221,Regular Season Per-Game
+2012,SFN,NL,148,True,Hits_per_Game,1.2027027027027026,Regular Season Per-Game
+2013,SFN,NL,148,False,Hits_per_Game,1.0337837837837838,Regular Season Per-Game
+2014,SFN,NL,147,True,Hits_per_Game,1.1564625850340136,Regular Season Per-Game
+2015,SFN,NL,150,False,Hits_per_Game,1.18,Regular Season Per-Game
+2016,SFN,NL,146,False,Hits_per_Game,1.0616438356164384,Regular Season Per-Game
+2017,SFN,NL,140,False,Hits_per_Game,1.1285714285714286,Regular Season Per-Game
+2018,SFN,NL,105,False,Hits_per_Game,1.0761904761904761,Regular Season Per-Game
+2019,SFN,NL,114,False,Hits_per_Game,0.9122807017543859,Regular Season Per-Game
+2021,SFN,NL,113,False,Hits_per_Game,1.0619469026548674,Regular Season Per-Game
+2009,SFN,NL,7,False,HR_per_Game,0.0,Regular Season Per-Game
+2010,SFN,NL,108,True,HR_per_Game,0.16666666666666666,Regular Season Per-Game
+2011,SFN,NL,45,False,HR_per_Game,0.08888888888888889,Regular Season Per-Game
+2012,SFN,NL,148,True,HR_per_Game,0.16216216216216217,Regular Season Per-Game
+2013,SFN,NL,148,False,HR_per_Game,0.10135135135135136,Regular Season Per-Game
+2014,SFN,NL,147,True,HR_per_Game,0.14965986394557823,Regular Season Per-Game
+2015,SFN,NL,150,False,HR_per_Game,0.12666666666666668,Regular Season Per-Game
+2016,SFN,NL,146,False,HR_per_Game,0.0958904109589041,Regular Season Per-Game
+2017,SFN,NL,140,False,HR_per_Game,0.08571428571428572,Regular Season Per-Game
+2018,SFN,NL,105,False,HR_per_Game,0.047619047619047616,Regular Season Per-Game
+2019,SFN,NL,114,False,HR_per_Game,0.06140350877192982,Regular Season Per-Game
+2021,SFN,NL,113,False,HR_per_Game,0.1592920353982301,Regular Season Per-Game
+2009,SFN,NL,7,False,RBI_per_Game,0.0,Regular Season Per-Game
+2010,SFN,NL,108,True,RBI_per_Game,0.6203703703703703,Regular Season Per-Game
+2011,SFN,NL,45,False,RBI_per_Game,0.4666666666666667,Regular Season Per-Game
+2012,SFN,NL,148,True,RBI_per_Game,0.6959459459459459,Regular Season Per-Game
+2013,SFN,NL,148,False,RBI_per_Game,0.4864864864864865,Regular Season Per-Game
+2014,SFN,NL,147,True,RBI_per_Game,0.6054421768707483,Regular Season Per-Game
+2015,SFN,NL,150,False,RBI_per_Game,0.6333333333333333,Regular Season Per-Game
+2016,SFN,NL,146,False,RBI_per_Game,0.547945205479452,Regular Season Per-Game
+2017,SFN,NL,140,False,RBI_per_Game,0.4785714285714286,Regular Season Per-Game
+2018,SFN,NL,105,False,RBI_per_Game,0.3904761904761905,Regular Season Per-Game
+2019,SFN,NL,114,False,RBI_per_Game,0.3333333333333333,Regular Season Per-Game
+2021,SFN,NL,113,False,RBI_per_Game,0.49557522123893805,Regular Season Per-Game
+2009,SFN,NL,7,False,Runs_per_Game,0.14285714285714285,Regular Season Per-Game
+2010,SFN,NL,108,True,Runs_per_Game,0.5370370370370371,Regular Season Per-Game
+2011,SFN,NL,45,False,Runs_per_Game,0.37777777777777777,Regular Season Per-Game
+2012,SFN,NL,148,True,Runs_per_Game,0.527027027027027,Regular Season Per-Game
+2013,SFN,NL,148,False,Runs_per_Game,0.41216216216216217,Regular Season Per-Game
+2014,SFN,NL,147,True,Runs_per_Game,0.4897959183673469,Regular Season Per-Game
+2015,SFN,NL,150,False,Runs_per_Game,0.49333333333333335,Regular Season Per-Game
+2016,SFN,NL,146,False,Runs_per_Game,0.5616438356164384,Regular Season Per-Game
+2017,SFN,NL,140,False,Runs_per_Game,0.44285714285714284,Regular Season Per-Game
+2018,SFN,NL,105,False,Runs_per_Game,0.44761904761904764,Regular Season Per-Game
+2019,SFN,NL,114,False,Runs_per_Game,0.37719298245614036,Regular Season Per-Game
+2021,SFN,NL,113,False,Runs_per_Game,0.6017699115044248,Regular Season Per-Game
+2009,SFN,NL,7,False,Walks_per_Game,0.0,Regular Season Per-Game
+2010,SFN,NL,108,True,Walks_per_Game,0.2777777777777778,Regular Season Per-Game
+2011,SFN,NL,45,False,Walks_per_Game,0.4,Regular Season Per-Game
+2012,SFN,NL,148,True,Walks_per_Game,0.46621621621621623,Regular Season Per-Game
+2013,SFN,NL,148,False,Walks_per_Game,0.40540540540540543,Regular Season Per-Game
+2014,SFN,NL,147,True,Walks_per_Game,0.3197278911564626,Regular Season Per-Game
+2015,SFN,NL,150,False,Walks_per_Game,0.37333333333333335,Regular Season Per-Game
+2016,SFN,NL,146,False,Walks_per_Game,0.4383561643835616,Regular Season Per-Game
+2017,SFN,NL,140,False,Walks_per_Game,0.4357142857142857,Regular Season Per-Game
+2018,SFN,NL,105,False,Walks_per_Game,0.42857142857142855,Regular Season Per-Game
+2019,SFN,NL,114,False,Walks_per_Game,0.2982456140350877,Regular Season Per-Game
+2021,SFN,NL,113,False,Walks_per_Game,0.49557522123893805,Regular Season Per-Game
+2009,SFN,NL,7,False,Strikeouts_per_Game,0.5714285714285714,Regular Season Per-Game
+2010,SFN,NL,108,True,Strikeouts_per_Game,0.5092592592592593,Regular Season Per-Game
+2011,SFN,NL,45,False,Strikeouts_per_Game,0.6666666666666666,Regular Season Per-Game
+2012,SFN,NL,148,True,Strikeouts_per_Game,0.6486486486486487,Regular Season Per-Game
+2013,SFN,NL,148,False,Strikeouts_per_Game,0.47297297297297297,Regular Season Per-Game
+2014,SFN,NL,147,True,Strikeouts_per_Game,0.46938775510204084,Regular Season Per-Game
+2015,SFN,NL,150,False,Strikeouts_per_Game,0.3466666666666667,Regular Season Per-Game
+2016,SFN,NL,146,False,Strikeouts_per_Game,0.4657534246575342,Regular Season Per-Game
+2017,SFN,NL,140,False,Strikeouts_per_Game,0.4714285714285714,Regular Season Per-Game
+2018,SFN,NL,105,False,Strikeouts_per_Game,0.5047619047619047,Regular Season Per-Game
+2019,SFN,NL,114,False,Strikeouts_per_Game,0.6228070175438597,Regular Season Per-Game
+2021,SFN,NL,113,False,Strikeouts_per_Game,0.7699115044247787,Regular Season Per-Game
+2009,SFN,NL,7,False,Doubles_per_Game,0.0,Regular Season Per-Game
+2010,SFN,NL,108,True,Doubles_per_Game,0.21296296296296297,Regular Season Per-Game
+2011,SFN,NL,45,False,Doubles_per_Game,0.1111111111111111,Regular Season Per-Game
+2012,SFN,NL,148,True,Doubles_per_Game,0.2635135135135135,Regular Season Per-Game
+2013,SFN,NL,148,False,Doubles_per_Game,0.22972972972972974,Regular Season Per-Game
+2014,SFN,NL,147,True,Doubles_per_Game,0.19047619047619047,Regular Season Per-Game
+2015,SFN,NL,150,False,Doubles_per_Game,0.18666666666666668,Regular Season Per-Game
+2016,SFN,NL,146,False,Doubles_per_Game,0.22602739726027396,Regular Season Per-Game
+2017,SFN,NL,140,False,Doubles_per_Game,0.24285714285714285,Regular Season Per-Game
+2018,SFN,NL,105,False,Doubles_per_Game,0.20952380952380953,Regular Season Per-Game
+2019,SFN,NL,114,False,Doubles_per_Game,0.21052631578947367,Regular Season Per-Game
+2021,SFN,NL,113,False,Doubles_per_Game,0.20353982300884957,Regular Season Per-Game
+2009,SFN,NL,7,False,Triples_per_Game,0.0,Regular Season Per-Game
+2010,SFN,NL,108,True,Triples_per_Game,0.018518518518518517,Regular Season Per-Game
+2011,SFN,NL,45,False,Triples_per_Game,0.0,Regular Season Per-Game
+2012,SFN,NL,148,True,Triples_per_Game,0.006756756756756757,Regular Season Per-Game
+2013,SFN,NL,148,False,Triples_per_Game,0.006756756756756757,Regular Season Per-Game
+2014,SFN,NL,147,True,Triples_per_Game,0.013605442176870748,Regular Season Per-Game
+2015,SFN,NL,150,False,Triples_per_Game,0.0,Regular Season Per-Game
+2016,SFN,NL,146,False,Triples_per_Game,0.0136986301369863,Regular Season Per-Game
+2017,SFN,NL,140,False,Triples_per_Game,0.0,Regular Season Per-Game
+2018,SFN,NL,105,False,Triples_per_Game,0.009523809523809525,Regular Season Per-Game
+2019,SFN,NL,114,False,Triples_per_Game,0.0,Regular Season Per-Game
+2021,SFN,NL,113,False,Triples_per_Game,0.0,Regular Season Per-Game
+2009,SFN,NL,7,False,League_Hits_per_Game,0.630435412381587,League Average Per-Game
+2010,SFN,NL,108,True,League_Hits_per_Game,0.6174315520668592,League Average Per-Game
+2011,SFN,NL,45,False,League_Hits_per_Game,0.6149805758849975,League Average Per-Game
+2012,SFN,NL,148,True,League_Hits_per_Game,0.6050576101497432,League Average Per-Game
+2013,SFN,NL,148,False,League_Hits_per_Game,0.6076832014783161,League Average Per-Game
+2014,SFN,NL,147,True,League_Hits_per_Game,0.5979385889253062,League Average Per-Game
+2015,SFN,NL,150,False,League_Hits_per_Game,0.596960331187796,League Average Per-Game
+2016,SFN,NL,146,False,League_Hits_per_Game,0.6000766490184667,League Average Per-Game
+2017,SFN,NL,140,False,League_Hits_per_Game,0.5967374863944136,League Average Per-Game
+2018,SFN,NL,105,False,League_Hits_per_Game,0.5729571169157703,League Average Per-Game
+2019,SFN,NL,114,False,League_Hits_per_Game,0.5864488588806428,League Average Per-Game
+2021,SFN,NL,113,False,League_Hits_per_Game,0.55129082252412,League Average Per-Game
+2009,SFN,NL,7,False,League_HR_per_Game,0.07303224311248878,League Average Per-Game
+2010,SFN,NL,108,True,League_HR_per_Game,0.06693170441520001,League Average Per-Game
+2011,SFN,NL,45,False,League_HR_per_Game,0.06623113969357913,League Average Per-Game
+2012,SFN,NL,148,True,League_HR_per_Game,0.07097340295458796,League Average Per-Game
+2013,SFN,NL,148,False,League_HR_per_Game,0.06728936882831899,League Average Per-Game
+2014,SFN,NL,147,True,League_HR_per_Game,0.06017480305905353,League Average Per-Game
+2015,SFN,NL,150,False,League_HR_per_Game,0.0695976408540562,League Average Per-Game
+2016,SFN,NL,146,False,League_HR_per_Game,0.07962981362933103,League Average Per-Game
+2017,SFN,NL,140,False,League_HR_per_Game,0.0862982909969891,League Average Per-Game
+2018,SFN,NL,105,False,League_HR_per_Game,0.07801368906271824,League Average Per-Game
+2019,SFN,NL,114,False,League_HR_per_Game,0.09452597511299593,League Average Per-Game
+2021,SFN,NL,113,False,League_HR_per_Game,0.08299241842476368,League Average Per-Game
+2009,SFN,NL,7,False,League_RBI_per_Game,0.3094527651438338,League Average Per-Game
+2010,SFN,NL,108,True,League_RBI_per_Game,0.2943660132615603,League Average Per-Game
+2011,SFN,NL,45,False,League_RBI_per_Game,0.2881461973839282,League Average Per-Game
+2012,SFN,NL,148,True,League_RBI_per_Game,0.28766236568420145,League Average Per-Game
+2013,SFN,NL,148,False,League_RBI_per_Game,0.27820927412369345,League Average Per-Game
+2014,SFN,NL,147,True,League_RBI_per_Game,0.2694640906215859,League Average Per-Game
+2015,SFN,NL,150,False,League_RBI_per_Game,0.27858904925284256,League Average Per-Game
+2016,SFN,NL,146,False,League_RBI_per_Game,0.2944599792763765,League Average Per-Game
+2017,SFN,NL,140,False,League_RBI_per_Game,0.30473686442474873,League Average Per-Game
+2018,SFN,NL,105,False,League_RBI_per_Game,0.2878334962983657,League Average Per-Game
+2019,SFN,NL,114,False,League_RBI_per_Game,0.31347302047876796,League Average Per-Game
+2021,SFN,NL,113,False,League_RBI_per_Game,0.29311235531478197,League Average Per-Game
+2009,SFN,NL,7,False,League_Runs_per_Game,0.32473420435122685,League Average Per-Game
+2010,SFN,NL,108,True,League_Runs_per_Game,0.30916556637309384,League Average Per-Game
+2011,SFN,NL,45,False,League_Runs_per_Game,0.3027542958576438,League Average Per-Game
+2012,SFN,NL,148,True,League_Runs_per_Game,0.30232022900214334,League Average Per-Game
+2013,SFN,NL,148,False,League_Runs_per_Game,0.2924149679505688,League Average Per-Game
+2014,SFN,NL,147,True,League_Runs_per_Game,0.2840693462135587,League Average Per-Game
+2015,SFN,NL,150,False,League_Runs_per_Game,0.2927240763319817,League Average Per-Game
+2016,SFN,NL,146,False,League_Runs_per_Game,0.30864004769272263,League Average Per-Game
+2017,SFN,NL,140,False,League_Runs_per_Game,0.31921179480655326,League Average Per-Game
+2018,SFN,NL,105,False,League_Runs_per_Game,0.3021371699958095,League Average Per-Game
+2019,SFN,NL,114,False,League_Runs_per_Game,0.3273673344121422,League Average Per-Game
+2021,SFN,NL,113,False,League_Runs_per_Game,0.30731210119936886,League Average Per-Game
+2009,SFN,NL,7,False,League_Walks_per_Game,0.24073698542831484,League Average Per-Game
+2010,SFN,NL,108,True,League_Walks_per_Game,0.2289287735233093,League Average Per-Game
+2011,SFN,NL,45,False,League_Walks_per_Game,0.21851038135284961,League Average Per-Game
+2012,SFN,NL,148,True,League_Walks_per_Game,0.21158244508695465,League Average Per-Game
+2013,SFN,NL,148,False,League_Walks_per_Game,0.21135300571692556,League Average Per-Game
+2014,SFN,NL,147,True,League_Walks_per_Game,0.20154102696797194,League Average Per-Game
+2015,SFN,NL,150,False,League_Walks_per_Game,0.1995207984801656,League Average Per-Game
+2016,SFN,NL,146,False,League_Walks_per_Game,0.2141630353011313,League Average Per-Game
+2017,SFN,NL,140,False,League_Walks_per_Game,0.22375358692732847,League Average Per-Game
+2018,SFN,NL,105,False,League_Walks_per_Game,0.2191088140801788,League Average Per-Game
+2019,SFN,NL,114,False,League_Walks_per_Game,0.2217370682439596,League Average Per-Game
+2021,SFN,NL,113,False,League_Walks_per_Game,0.22052191396378157,League Average Per-Game
+2009,SFN,NL,7,False,League_Strikeouts_per_Game,0.486558127408094,League Average Per-Game
+2010,SFN,NL,108,True,League_Strikeouts_per_Game,0.4977583029845765,League Average Per-Game
+2011,SFN,NL,45,False,League_Strikeouts_per_Game,0.5017969125114581,League Average Per-Game
+2012,SFN,NL,148,True,League_Strikeouts_per_Game,0.5239718638070168,League Average Per-Game
+2013,SFN,NL,148,False,League_Strikeouts_per_Game,0.5299705491713346,League Average Per-Game
+2014,SFN,NL,147,True,League_Strikeouts_per_Game,0.5382237939163935,League Average Per-Game
+2015,SFN,NL,150,False,League_Strikeouts_per_Game,0.5308929027135849,League Average Per-Game
+2016,SFN,NL,146,False,League_Strikeouts_per_Game,0.553320747753758,League Average Per-Game
+2017,SFN,NL,140,False,League_Strikeouts_per_Game,0.5668970781561427,League Average Per-Game
+2018,SFN,NL,105,False,League_Strikeouts_per_Game,0.5755971504400055,League Average Per-Game
+2019,SFN,NL,114,False,League_Strikeouts_per_Game,0.5973857485631382,League Average Per-Game
+2021,SFN,NL,113,False,League_Strikeouts_per_Game,0.5884447298976556,League Average Per-Game
+2009,SFN,NL,7,False,League_Doubles_per_Game,0.1265534922796141,League Average Per-Game
+2010,SFN,NL,108,True,League_Doubles_per_Game,0.12312647814164043,League Average Per-Game
+2011,SFN,NL,45,False,League_Doubles_per_Game,0.12220460067802529,League Average Per-Game
+2012,SFN,NL,148,True,League_Doubles_per_Game,0.11883082322818223,League Average Per-Game
+2013,SFN,NL,148,False,League_Doubles_per_Game,0.11869838886643182,League Average Per-Game
+2014,SFN,NL,147,True,League_Doubles_per_Game,0.116971421999885,League Average Per-Game
+2015,SFN,NL,150,False,League_Doubles_per_Game,0.11685144752885132,League Average Per-Game
+2016,SFN,NL,146,False,League_Doubles_per_Game,0.11715944415267349,League Average Per-Game
+2017,SFN,NL,140,False,League_Doubles_per_Game,0.11869725626563757,League Average Per-Game
+2018,SFN,NL,105,False,League_Doubles_per_Game,0.11543511663640173,League Average Per-Game
+2019,SFN,NL,114,False,League_Doubles_per_Game,0.11900842586909212,League Average Per-Game
+2021,SFN,NL,113,False,League_Doubles_per_Game,0.10978623588053783,League Average Per-Game
+2009,SFN,NL,7,False,League_Triples_per_Game,0.013746052898403777,League Average Per-Game
+2010,SFN,NL,108,True,League_Triples_per_Game,0.012565110779007849,League Average Per-Game
+2011,SFN,NL,45,False,League_Triples_per_Game,0.01306580919262611,League Average Per-Game
+2012,SFN,NL,148,True,League_Triples_per_Game,0.013334484097872523,League Average Per-Game
+2013,SFN,NL,148,False,League_Triples_per_Game,0.011145117514581047,League Average Per-Game
+2014,SFN,NL,147,True,League_Triples_per_Game,0.012204588580300154,League Average Per-Game
+2015,SFN,NL,150,False,League_Triples_per_Game,0.013312728613151104,League Average Per-Game
+2016,SFN,NL,146,False,League_Triples_per_Game,0.012391591318788947,League Average Per-Game
+2017,SFN,NL,140,False,League_Triples_per_Game,0.011237860989779906,League Average Per-Game
+2018,SFN,NL,105,False,League_Triples_per_Game,0.011831261349350468,League Average Per-Game
+2019,SFN,NL,114,False,League_Triples_per_Game,0.010950839796886335,League Average Per-Game
+2021,SFN,NL,113,False,League_Triples_per_Game,0.009368760559053908,League Average Per-Game
+2009,SFN,NL,7,False,Hits_vs_League,-0.34472112666730126,Posey Relative to League
+2010,SFN,NL,108,True,Hits_vs_League,0.530716596081289,Posey Relative to League
+2011,SFN,NL,45,False,Hits_vs_League,0.4072416463372246,Posey Relative to League
+2012,SFN,NL,148,True,Hits_vs_League,0.5976450925529594,Posey Relative to League
+2013,SFN,NL,148,False,Hits_vs_League,0.42610058230546766,Posey Relative to League
+2014,SFN,NL,147,True,Hits_vs_League,0.5585239961087074,Posey Relative to League
+2015,SFN,NL,150,False,Hits_vs_League,0.5830396688122039,Posey Relative to League
+2016,SFN,NL,146,False,Hits_vs_League,0.4615671865979717,Posey Relative to League
+2017,SFN,NL,140,False,Hits_vs_League,0.531833942177015,Posey Relative to League
+2018,SFN,NL,105,False,Hits_vs_League,0.5032333592747058,Posey Relative to League
+2019,SFN,NL,114,False,Hits_vs_League,0.3258318428737431,Posey Relative to League
+2021,SFN,NL,113,False,Hits_vs_League,0.5106560801307474,Posey Relative to League
+2009,SFN,NL,7,False,HR_vs_League,-0.07303224311248878,Posey Relative to League
+2010,SFN,NL,108,True,HR_vs_League,0.09973496225146665,Posey Relative to League
+2011,SFN,NL,45,False,HR_vs_League,0.02265774919530976,Posey Relative to League
+2012,SFN,NL,148,True,HR_vs_League,0.09118875920757422,Posey Relative to League
+2013,SFN,NL,148,False,HR_vs_League,0.03406198252303237,Posey Relative to League
+2014,SFN,NL,147,True,HR_vs_League,0.08948506088652469,Posey Relative to League
+2015,SFN,NL,150,False,HR_vs_League,0.057069025812610474,Posey Relative to League
+2016,SFN,NL,146,False,HR_vs_League,0.01626059732957308,Posey Relative to League
+2017,SFN,NL,140,False,HR_vs_League,-0.000584005282703387,Posey Relative to League
+2018,SFN,NL,105,False,HR_vs_League,-0.030394641443670628,Posey Relative to League
+2019,SFN,NL,114,False,HR_vs_League,-0.03312246634106611,Posey Relative to League
+2021,SFN,NL,113,False,HR_vs_League,0.0762996169734664,Posey Relative to League
+2009,SFN,NL,7,False,RBI_vs_League,-0.3094527651438338,Posey Relative to League
+2010,SFN,NL,108,True,RBI_vs_League,0.32600435710881004,Posey Relative to League
+2011,SFN,NL,45,False,RBI_vs_League,0.17852046928273846,Posey Relative to League
+2012,SFN,NL,148,True,RBI_vs_League,0.4082835802617445,Posey Relative to League
+2013,SFN,NL,148,False,RBI_vs_League,0.20827721236279306,Posey Relative to League
+2014,SFN,NL,147,True,RBI_vs_League,0.3359780862491624,Posey Relative to League
+2015,SFN,NL,150,False,RBI_vs_League,0.35474428408049075,Posey Relative to League
+2016,SFN,NL,146,False,RBI_vs_League,0.2534852262030755,Posey Relative to League
+2017,SFN,NL,140,False,RBI_vs_League,0.17383456414667986,Posey Relative to League
+2018,SFN,NL,105,False,RBI_vs_League,0.10264269417782479,Posey Relative to League
+2019,SFN,NL,114,False,RBI_vs_League,0.019860312854565354,Posey Relative to League
+2021,SFN,NL,113,False,RBI_vs_League,0.20246286592415608,Posey Relative to League
+2009,SFN,NL,7,False,Runs_vs_League,-0.181877061494084,Posey Relative to League
+2010,SFN,NL,108,True,Runs_vs_League,0.22787147066394325,Posey Relative to League
+2011,SFN,NL,45,False,Runs_vs_League,0.07502348192013397,Posey Relative to League
+2012,SFN,NL,148,True,Runs_vs_League,0.22470679802488364,Posey Relative to League
+2013,SFN,NL,148,False,Runs_vs_League,0.11974719421159336,Posey Relative to League
+2014,SFN,NL,147,True,Runs_vs_League,0.2057265721537882,Posey Relative to League
+2015,SFN,NL,150,False,Runs_vs_League,0.20060925700135163,Posey Relative to League
+2016,SFN,NL,146,False,Runs_vs_League,0.25300378792371575,Posey Relative to League
+2017,SFN,NL,140,False,Runs_vs_League,0.12364534805058958,Posey Relative to League
+2018,SFN,NL,105,False,Runs_vs_League,0.14548187762323816,Posey Relative to League
+2019,SFN,NL,114,False,Runs_vs_League,0.04982564804399814,Posey Relative to League
+2021,SFN,NL,113,False,Runs_vs_League,0.29445781030505597,Posey Relative to League
+2009,SFN,NL,7,False,Walks_vs_League,-0.24073698542831484,Posey Relative to League
+2010,SFN,NL,108,True,Walks_vs_League,0.0488490042544685,Posey Relative to League
+2011,SFN,NL,45,False,Walks_vs_League,0.1814896186471504,Posey Relative to League
+2012,SFN,NL,148,True,Walks_vs_League,0.25463377112926155,Posey Relative to League
+2013,SFN,NL,148,False,Walks_vs_League,0.19405239968847987,Posey Relative to League
+2014,SFN,NL,147,True,Walks_vs_League,0.11818686418849067,Posey Relative to League
+2015,SFN,NL,150,False,Walks_vs_League,0.17381253485316775,Posey Relative to League
+2016,SFN,NL,146,False,Walks_vs_League,0.22419312908243033,Posey Relative to League
+2017,SFN,NL,140,False,Walks_vs_League,0.21196069878695725,Posey Relative to League
+2018,SFN,NL,105,False,Walks_vs_League,0.20946261449124975,Posey Relative to League
+2019,SFN,NL,114,False,Walks_vs_League,0.07650854579112809,Posey Relative to League
+2021,SFN,NL,113,False,Walks_vs_League,0.2750533072751565,Posey Relative to League
+2009,SFN,NL,7,False,Strikeouts_vs_League,0.08487044402047739,Posey Relative to League
+2010,SFN,NL,108,True,Strikeouts_vs_League,0.011500956274682783,Posey Relative to League
+2011,SFN,NL,45,False,Strikeouts_vs_League,0.16486975415520855,Posey Relative to League
+2012,SFN,NL,148,True,Strikeouts_vs_League,0.12467678484163192,Posey Relative to League
+2013,SFN,NL,148,False,Strikeouts_vs_League,-0.0569975761983616,Posey Relative to League
+2014,SFN,NL,147,True,Strikeouts_vs_League,-0.06883603881435268,Posey Relative to League
+2015,SFN,NL,150,False,Strikeouts_vs_League,-0.18422623604691823,Posey Relative to League
+2016,SFN,NL,146,False,Strikeouts_vs_League,-0.08756732309622373,Posey Relative to League
+2017,SFN,NL,140,False,Strikeouts_vs_League,-0.09546850672757123,Posey Relative to League
+2018,SFN,NL,105,False,Strikeouts_vs_League,-0.07083524567810073,Posey Relative to League
+2019,SFN,NL,114,False,Strikeouts_vs_League,0.0254212689807215,Posey Relative to League
+2021,SFN,NL,113,False,Strikeouts_vs_League,0.18146677452712312,Posey Relative to League
+2009,SFN,NL,7,False,Doubles_vs_League,-0.1265534922796141,Posey Relative to League
+2010,SFN,NL,108,True,Doubles_vs_League,0.08983648482132253,Posey Relative to League
+2011,SFN,NL,45,False,Doubles_vs_League,-0.01109348956691418,Posey Relative to League
+2012,SFN,NL,148,True,Doubles_vs_League,0.14468269028533126,Posey Relative to League
+2013,SFN,NL,148,False,Doubles_vs_League,0.11103134086329793,Posey Relative to League
+2014,SFN,NL,147,True,Doubles_vs_League,0.07350476847630547,Posey Relative to League
+2015,SFN,NL,150,False,Doubles_vs_League,0.06981521913781535,Posey Relative to League
+2016,SFN,NL,146,False,Doubles_vs_League,0.10886795310760047,Posey Relative to League
+2017,SFN,NL,140,False,Doubles_vs_League,0.12415988659150529,Posey Relative to League
+2018,SFN,NL,105,False,Doubles_vs_League,0.0940886928874078,Posey Relative to League
+2019,SFN,NL,114,False,Doubles_vs_League,0.09151788992038155,Posey Relative to League
+2021,SFN,NL,113,False,Doubles_vs_League,0.09375358712831174,Posey Relative to League
+2009,SFN,NL,7,False,Triples_vs_League,-0.013746052898403777,Posey Relative to League
+2010,SFN,NL,108,True,Triples_vs_League,0.005953407739510669,Posey Relative to League
+2011,SFN,NL,45,False,Triples_vs_League,-0.01306580919262611,Posey Relative to League
+2012,SFN,NL,148,True,Triples_vs_League,-0.006577727341115766,Posey Relative to League
+2013,SFN,NL,148,False,Triples_vs_League,-0.00438836075782429,Posey Relative to League
+2014,SFN,NL,147,True,Triples_vs_League,0.0014008535965705938,Posey Relative to League
+2015,SFN,NL,150,False,Triples_vs_League,-0.013312728613151104,Posey Relative to League
+2016,SFN,NL,146,False,Triples_vs_League,0.0013070388181973536,Posey Relative to League
+2017,SFN,NL,140,False,Triples_vs_League,-0.011237860989779906,Posey Relative to League
+2018,SFN,NL,105,False,Triples_vs_League,-0.002307451825540943,Posey Relative to League
+2019,SFN,NL,114,False,Triples_vs_League,-0.010950839796886335,Posey Relative to League
+2021,SFN,NL,113,False,Triples_vs_League,-0.009368760559053908,Posey Relative to League
+2009,SFN,NL,7,False,Post_Hits,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_Hits,17.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_Hits,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_Hits,12.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_Hits,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_Hits,17.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_Hits,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_Hits,5.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_Hits,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_Hits,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_Hits,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_Hits,6.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_HR,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_HR,1.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_HR,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_HR,3.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_HR,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_HR,0.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_HR,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_HR,0.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_HR,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_HR,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_HR,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_HR,1.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_RBI,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_RBI,5.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_RBI,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_RBI,9.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_RBI,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_RBI,7.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_RBI,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_RBI,2.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_RBI,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_RBI,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_RBI,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_RBI,2.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_Doubles,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_Doubles,3.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_Doubles,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_Doubles,0.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_Doubles,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_Doubles,0.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_Doubles,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_Doubles,1.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_Doubles,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_Doubles,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_Doubles,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_Doubles,2.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_Triples,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_Triples,0.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_Triples,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_Triples,0.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_Triples,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_Triples,0.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_Triples,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_Triples,0.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_Triples,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_Triples,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_Triples,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_Triples,0.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_AB,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_AB,59.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_AB,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_AB,60.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_AB,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_AB,69.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_AB,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_AB,18.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_AB,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_AB,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_AB,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_AB,20.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_Games,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_Games,15.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_Games,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_Games,16.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_Games,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_Games,17.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_Games,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_Games,5.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_Games,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_Games,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_Games,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_Games,5.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_Walks,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_Walks,6.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_Walks,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_Walks,8.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_Walks,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_Walks,6.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_Walks,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_Walks,3.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_Walks,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_Walks,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_Walks,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_Walks,0.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_Strikeouts,,Postseason Counting Stat
+2010,SFN,NL,108,True,Post_Strikeouts,18.0,Postseason Counting Stat
+2011,SFN,NL,45,False,Post_Strikeouts,,Postseason Counting Stat
+2012,SFN,NL,148,True,Post_Strikeouts,15.0,Postseason Counting Stat
+2013,SFN,NL,148,False,Post_Strikeouts,,Postseason Counting Stat
+2014,SFN,NL,147,True,Post_Strikeouts,7.0,Postseason Counting Stat
+2015,SFN,NL,150,False,Post_Strikeouts,,Postseason Counting Stat
+2016,SFN,NL,146,False,Post_Strikeouts,1.0,Postseason Counting Stat
+2017,SFN,NL,140,False,Post_Strikeouts,,Postseason Counting Stat
+2018,SFN,NL,105,False,Post_Strikeouts,,Postseason Counting Stat
+2019,SFN,NL,114,False,Post_Strikeouts,,Postseason Counting Stat
+2021,SFN,NL,113,False,Post_Strikeouts,6.0,Postseason Counting Stat
+2009,SFN,NL,7,False,Post_Hits_per_Game,,Postseason Per-Game
+2010,SFN,NL,108,True,Post_Hits_per_Game,1.1333333333333333,Postseason Per-Game
+2011,SFN,NL,45,False,Post_Hits_per_Game,,Postseason Per-Game
+2012,SFN,NL,148,True,Post_Hits_per_Game,0.75,Postseason Per-Game
+2013,SFN,NL,148,False,Post_Hits_per_Game,,Postseason Per-Game
+2014,SFN,NL,147,True,Post_Hits_per_Game,1.0,Postseason Per-Game
+2015,SFN,NL,150,False,Post_Hits_per_Game,,Postseason Per-Game
+2016,SFN,NL,146,False,Post_Hits_per_Game,1.0,Postseason Per-Game
+2017,SFN,NL,140,False,Post_Hits_per_Game,,Postseason Per-Game
+2018,SFN,NL,105,False,Post_Hits_per_Game,,Postseason Per-Game
+2019,SFN,NL,114,False,Post_Hits_per_Game,,Postseason Per-Game
+2021,SFN,NL,113,False,Post_Hits_per_Game,1.2,Postseason Per-Game
+2009,SFN,NL,7,False,Post_HR_per_Game,,Postseason Per-Game
+2010,SFN,NL,108,True,Post_HR_per_Game,0.06666666666666667,Postseason Per-Game
+2011,SFN,NL,45,False,Post_HR_per_Game,,Postseason Per-Game
+2012,SFN,NL,148,True,Post_HR_per_Game,0.1875,Postseason Per-Game
+2013,SFN,NL,148,False,Post_HR_per_Game,,Postseason Per-Game
+2014,SFN,NL,147,True,Post_HR_per_Game,0.0,Postseason Per-Game
+2015,SFN,NL,150,False,Post_HR_per_Game,,Postseason Per-Game
+2016,SFN,NL,146,False,Post_HR_per_Game,0.0,Postseason Per-Game
+2017,SFN,NL,140,False,Post_HR_per_Game,,Postseason Per-Game
+2018,SFN,NL,105,False,Post_HR_per_Game,,Postseason Per-Game
+2019,SFN,NL,114,False,Post_HR_per_Game,,Postseason Per-Game
+2021,SFN,NL,113,False,Post_HR_per_Game,0.2,Postseason Per-Game
+2009,SFN,NL,7,False,Post_RBI_per_Game,,Postseason Per-Game
+2010,SFN,NL,108,True,Post_RBI_per_Game,0.3333333333333333,Postseason Per-Game
+2011,SFN,NL,45,False,Post_RBI_per_Game,,Postseason Per-Game
+2012,SFN,NL,148,True,Post_RBI_per_Game,0.5625,Postseason Per-Game
+2013,SFN,NL,148,False,Post_RBI_per_Game,,Postseason Per-Game
+2014,SFN,NL,147,True,Post_RBI_per_Game,0.4117647058823529,Postseason Per-Game
+2015,SFN,NL,150,False,Post_RBI_per_Game,,Postseason Per-Game
+2016,SFN,NL,146,False,Post_RBI_per_Game,0.4,Postseason Per-Game
+2017,SFN,NL,140,False,Post_RBI_per_Game,,Postseason Per-Game
+2018,SFN,NL,105,False,Post_RBI_per_Game,,Postseason Per-Game
+2019,SFN,NL,114,False,Post_RBI_per_Game,,Postseason Per-Game
+2021,SFN,NL,113,False,Post_RBI_per_Game,0.4,Postseason Per-Game
+2009,SFN,NL,7,False,Post_Walks_per_Game,,Postseason Per-Game
+2010,SFN,NL,108,True,Post_Walks_per_Game,0.4,Postseason Per-Game
+2011,SFN,NL,45,False,Post_Walks_per_Game,,Postseason Per-Game
+2012,SFN,NL,148,True,Post_Walks_per_Game,0.5,Postseason Per-Game
+2013,SFN,NL,148,False,Post_Walks_per_Game,,Postseason Per-Game
+2014,SFN,NL,147,True,Post_Walks_per_Game,0.35294117647058826,Postseason Per-Game
+2015,SFN,NL,150,False,Post_Walks_per_Game,,Postseason Per-Game
+2016,SFN,NL,146,False,Post_Walks_per_Game,0.6,Postseason Per-Game
+2017,SFN,NL,140,False,Post_Walks_per_Game,,Postseason Per-Game
+2018,SFN,NL,105,False,Post_Walks_per_Game,,Postseason Per-Game
+2019,SFN,NL,114,False,Post_Walks_per_Game,,Postseason Per-Game
+2021,SFN,NL,113,False,Post_Walks_per_Game,0.0,Postseason Per-Game
+2009,SFN,NL,7,False,Hits_Post_vs_Reg,,Postseason vs Regular Season
+2010,SFN,NL,108,True,Hits_Post_vs_Reg,-0.014814814814814836,Postseason vs Regular Season
+2011,SFN,NL,45,False,Hits_Post_vs_Reg,,Postseason vs Regular Season
+2012,SFN,NL,148,True,Hits_Post_vs_Reg,-0.45270270270270263,Postseason vs Regular Season
+2013,SFN,NL,148,False,Hits_Post_vs_Reg,,Postseason vs Regular Season
+2014,SFN,NL,147,True,Hits_Post_vs_Reg,-0.15646258503401356,Postseason vs Regular Season
+2015,SFN,NL,150,False,Hits_Post_vs_Reg,,Postseason vs Regular Season
+2016,SFN,NL,146,False,Hits_Post_vs_Reg,-0.06164383561643838,Postseason vs Regular Season
+2017,SFN,NL,140,False,Hits_Post_vs_Reg,,Postseason vs Regular Season
+2018,SFN,NL,105,False,Hits_Post_vs_Reg,,Postseason vs Regular Season
+2019,SFN,NL,114,False,Hits_Post_vs_Reg,,Postseason vs Regular Season
+2021,SFN,NL,113,False,Hits_Post_vs_Reg,0.1380530973451326,Postseason vs Regular Season
+2009,SFN,NL,7,False,HR_Post_vs_Reg,,Postseason vs Regular Season
+2010,SFN,NL,108,True,HR_Post_vs_Reg,-0.09999999999999999,Postseason vs Regular Season
+2011,SFN,NL,45,False,HR_Post_vs_Reg,,Postseason vs Regular Season
+2012,SFN,NL,148,True,HR_Post_vs_Reg,0.02533783783783783,Postseason vs Regular Season
+2013,SFN,NL,148,False,HR_Post_vs_Reg,,Postseason vs Regular Season
+2014,SFN,NL,147,True,HR_Post_vs_Reg,-0.14965986394557823,Postseason vs Regular Season
+2015,SFN,NL,150,False,HR_Post_vs_Reg,,Postseason vs Regular Season
+2016,SFN,NL,146,False,HR_Post_vs_Reg,-0.0958904109589041,Postseason vs Regular Season
+2017,SFN,NL,140,False,HR_Post_vs_Reg,,Postseason vs Regular Season
+2018,SFN,NL,105,False,HR_Post_vs_Reg,,Postseason vs Regular Season
+2019,SFN,NL,114,False,HR_Post_vs_Reg,,Postseason vs Regular Season
+2021,SFN,NL,113,False,HR_Post_vs_Reg,0.040707964601769925,Postseason vs Regular Season
+2009,SFN,NL,7,False,RBI_Post_vs_Reg,,Postseason vs Regular Season
+2010,SFN,NL,108,True,RBI_Post_vs_Reg,-0.28703703703703703,Postseason vs Regular Season
+2011,SFN,NL,45,False,RBI_Post_vs_Reg,,Postseason vs Regular Season
+2012,SFN,NL,148,True,RBI_Post_vs_Reg,-0.13344594594594594,Postseason vs Regular Season
+2013,SFN,NL,148,False,RBI_Post_vs_Reg,,Postseason vs Regular Season
+2014,SFN,NL,147,True,RBI_Post_vs_Reg,-0.19367747098839538,Postseason vs Regular Season
+2015,SFN,NL,150,False,RBI_Post_vs_Reg,,Postseason vs Regular Season
+2016,SFN,NL,146,False,RBI_Post_vs_Reg,-0.147945205479452,Postseason vs Regular Season
+2017,SFN,NL,140,False,RBI_Post_vs_Reg,,Postseason vs Regular Season
+2018,SFN,NL,105,False,RBI_Post_vs_Reg,,Postseason vs Regular Season
+2019,SFN,NL,114,False,RBI_Post_vs_Reg,,Postseason vs Regular Season
+2021,SFN,NL,113,False,RBI_Post_vs_Reg,-0.09557522123893802,Postseason vs Regular Season
