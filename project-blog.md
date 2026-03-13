@@ -1,8 +1,3 @@
----
-layout: default
-title: Analyzing Buster Posey's Career with Python and the Lahman Baseball Database
----
-
 # Analyzing Buster Posey’s Career Using Python
 
 ## Introduction
